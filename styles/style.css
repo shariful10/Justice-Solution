@@ -8,3 +8,11 @@
     background-size: cover; 
     border-radius: 8px;
 }
+
+/* Media Queries */
+
+@media screen and (max-width: 576px) {
+    .legal{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
