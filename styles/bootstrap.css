@@ -86,7 +86,7 @@
   --bs-secondary-color: rgba(33, 37, 41, 0.75);
   --bs-secondary-color-rgb: 33, 37, 41;
   --bs-secondary-bg: #e9ecef;
-  --bs-secondary-bg-rgb: 233, 236, 239;
+  --bs-secondary-bg-rgb: rgb(243, 243, 243);
   --bs-tertiary-color: rgba(33, 37, 41, 0.5);
   --bs-tertiary-color-rgb: 33, 37, 41;
   --bs-tertiary-bg: #f8f9fa;
@@ -136,7 +136,7 @@
   --bs-secondary-color: rgba(173, 181, 189, 0.75);
   --bs-secondary-color-rgb: 173, 181, 189;
   --bs-secondary-bg: #343a40;
-  --bs-secondary-bg-rgb: 52, 58, 64;
+  --bs-secondary-bg-rgb: 243, 243, 243;
   --bs-tertiary-color: rgba(173, 181, 189, 0.5);
   --bs-tertiary-color-rgb: 173, 181, 189;
   --bs-tertiary-bg: #2b3035;
